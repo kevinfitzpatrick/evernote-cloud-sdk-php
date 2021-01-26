@@ -43,7 +43,7 @@ class AdvancedClient
         $this->token               = $token;
         $this->sandbox             = $sandbox;
         $this->thriftClientFactory = $thriftClientFactory;
-        $this->logger              = $logger ?: new NullLogger;
+        $this->logger              = $logger;
         $this->china               = $china;
     }
 

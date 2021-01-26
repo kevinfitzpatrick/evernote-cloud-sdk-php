@@ -153,7 +153,7 @@ class Client
         $this->token          = $token;
         $this->sandbox        = $sandbox;
         $this->advancedClient = $advancedClient;
-        $this->logger         = $logger ?: new NullLogger;
+        $this->logger         = $logger;
         $this->china          = $china;
     }
 
