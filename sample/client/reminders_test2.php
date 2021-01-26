@@ -7,7 +7,7 @@ require __DIR__ . '/../../src/autoload.php';
  * or by creating a 
  * [2] Developer Token: https://dev.evernote.com/doc/articles/authentication.php#devtoken
  */
-$token = 'S=s1:U=96447:E=17e8dea5f9c:C=177363931f0:P=1cd:A=en-devtoken:V=2:H=36134ff369087b0d1df6adf82c4e6f59';
+$token = '*******';
 
 /** Understanding SANDBOX vs PRODUCTION vs CHINA Environments
  *
